@@ -1,4 +1,4 @@
-## Assuntos trabalhados neste curso:
+## Conteúdos trabalhados neste curso:
  
 01. Python Básico
 02. Estrutura de dados
